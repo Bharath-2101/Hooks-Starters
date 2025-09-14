@@ -1,3 +1,3 @@
-# Don't Worry about these repo
+# Dont Worry about this repo.
 
-Its is for my personal hooks which are repeated alot.
+It is my personal repo for the repeatly used hooks as starters.
