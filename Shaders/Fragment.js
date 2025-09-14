@@ -1,0 +1,8 @@
+const Fragment = `
+varying vUv;
+void main(){
+  gl_FragColor=vec4(vUv,0.,1.)
+}
+`;
+
+export { Fragment };
